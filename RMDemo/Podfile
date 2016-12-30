@@ -1,0 +1,6 @@
+target 'RMDemo' do
+
+pod 'RongCloudIM/IMLib', '2.8.0'
+pod 'RongCloudIM/IMKit', '2.8.0'
+
+end
